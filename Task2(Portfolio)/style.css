@@ -1,0 +1,16 @@
+#id1{
+    height: 400px;
+    width: 400px;
+    border-radius: 100%;
+}
+
+.home-text p{
+    
+        text-align:justify;
+        text-justify:inter-word;
+    
+}
+
+.card:hover{
+    background-color: blue!important;
+}
